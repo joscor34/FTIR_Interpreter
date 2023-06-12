@@ -1,4 +1,4 @@
-# FTIR Interpretator
+# FTIR Interpreter
 
 Este repositorio tiene la finalidad de ayudar a interpretar datos obtenidos de una espectroscopía FTIR y en un futuro busca calcular los grupos funcionales de cada pico en la gráfica.
 
